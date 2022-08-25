@@ -1,4 +1,5 @@
 sync.sh
+/static/
 
 # Below taken from https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore.
 

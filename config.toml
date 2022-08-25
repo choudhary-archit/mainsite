@@ -16,8 +16,8 @@ paginate = 4
     mainSections = ["blog"]
     showTaxonomyLinks = false
     nBlogLatest = 4 # number of blog post on the home page
-    blogLatestHeading = "Blog"
-    footer = "© 2022 Archit Choudhary. This website is under construction."
+    blogLatestHeading = "Latest Blog Entries"
+    footer = "© 2022 Archit Choudhary."
 
     [params.social]
         email = "archit@architchoudhary.xyz"
@@ -34,6 +34,7 @@ paginate = 4
 [permalinks]
     blog = "/blog/:year/:month/:slug"
 
+# I have to *manually* allow Hugo to access Vim.
 [security]
     enableInlineShortcodes = false
         [security.exec]

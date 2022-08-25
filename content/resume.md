@@ -3,69 +3,79 @@ title: "Résumé"
 menu:
   main:
     name: "Résumé"
-    weight: 5
+    weight: 200
 ---
 
 {{< container >}}
-    {{% resume-section title="About Me" %}}
-My career has been a series of ups and downs, starting out as a child
-prodigy, getting involved in religious sectarianism which earned me a
-life sentence, which I fortuantely were able to circumvent, followed by
-presitigous academic and diplomatic roles and finally by barely surving being
-shipwrecked.
-    {{% /resume-section %}}
-    {{< resume-section title="Experience" >}}
-        {{< resume-entry what="Swedish Ambassdor to France"
-                        where="Paris"
-                        when="1634–1645" >}}
-            <ul>
-                <li>Appointed directly by Swedish regent Axel Oxelstierna.</li>
-                <li>Helped negotiate a treaty which led to the end of the Thirty
-                Years' War.</li>
-            </ul>
-        {{< /resume-entry >}}
-        {{% resume-entry what="Freelance Academic"
-                         when="1621–1631"
-                         where="Mainly working from France" %}}
-* I have three major publications from my time in France.
-* The most well-received publication was *On the law of war and
-peace*, published in Parision press in 1625.
+
+    {{< resume-section title="Education" >}}
+        {{% resume-entry what="International Baccalaureate Diploma (Belgium)"
+                        where="International School of Belgium"
+                        when="Aug 2021 - present" %}}
+Currently doing final two years of high school at ISBe.
+* Subjects taken: HL Mathematics Analysis and Approaches, HL Physics, HL
+  Economics, SL English Language and Literature, SL Global Politics, Ab Initio
+  French.
+* Top of Class 11, in every subject.
         {{% /resume-entry %}}
-        {{% resume-entry what="Pensionary of Rotterdam"
-                         where="Town Delegation of Rotterdam"
-                         when="1613-1616" %}}
 
-Pensionary is a type of governor role in the Netherlands.
-
-1.  I dealt with issues of the freedom of the seas.
-3.  I led a delegation to England in protest of the English actions, who had
-    seized Dutch vessels under the claim that they were trespassing on British
-    sea.
-4.  While the protest was unsuccessful, the principles I argued for later became
-    international law.
+        {{% resume-entry what="Central Board of Secondary Education (India)"
+                        where="DAV Public School, Airoli"
+                        when="Apr 2011 - Mar 2021" %}}
+Did all prior education at DAV, up to Class 10.
         {{% /resume-entry %}}
     {{< /resume-section >}}
-    {{% resume-section title="Interests" %}}
-Latin Elegies
 
-Natural Law
+    {{< resume-section title="Selected Awards" >}}
+        {{% resume-entry what="Invitee of the Mathematical Olympiad Orientation Camp"
+                          where="Homi Bhabha Centre for Science Education"
+                          when="2021" %}}{{% /resume-entry %}}
+        {{% resume-entry what="Awardee of the Indian National Mathematical Olympiad"
+                          where="Homi Bhabha Centre for Science Education"
+                          when="2020" %}}{{% /resume-entry %}}
+        {{% resume-entry what="Awardee of the Diploma of the 16th Sharygin Geometry Olympiad"
+                          where="Steklov Mathematical Institute RAS"
+                          when="2020" %}}{{% /resume-entry %}}
+    {{< /resume-section >}}
 
-Calvinism
+    {{< resume-section title="Computer Skills" >}}
+        {{% resume-entry what="Scripting: Python and POSIX Shell in Vim" %}}
+* Have used scripting for implementing complex mathematical __algorithms__, see [numerical.git](https://github.com/choudhary-archit/numerical).
+* Have scripted in __BASH__ and __ZSH__ for configuring __Linux__ and __MacOS__ systems.
+* Have been doing all file editing (code and otherwise) in __Vim__ since 2019. Proficient enough to __Vim__ blindly.
+        {{% /resume-entry %}}
 
-Just Wars
+        {{% resume-entry what="System Administration: Linux and MacOS" %}}
+* Currently maintain a Debian web and __mail server__ (Dovecot/Postfix) with manually configured __DNS__ settings at [https://architchoudhary.xyz/](https://architchoudhary.xyz/).
+* Configured a __headless Raspberry Pi__ to be a __bittorrent__ seedbox completely over __SSH__.
+* Use __MacOS__ for day-to-day needs.
+        {{% /resume-entry %}}
 
-    {{% /resume-section %}}
+        {{% resume-entry what="Markup: LaTeX, HTML, Markdown" %}}
+* Extremely familiar with __LaTeX__; wrote my [Physics IA](https://github.com/choudhary-archit/physicsia) and [Mathematics IA](https://github.com/choudhary-archit/mathsia) for IBDP in __LaTeX__.
+* Previously used plain __HTML__ for personal website.
+* Currently generate my website with __Hugo__ and write blogposts in __Markdown__.
+        {{% /resume-entry %}}
+
+        {{% resume-entry what="Version Control: Git" %}}
+* Have been using __Git__ for years, for many types of code-related or even non-code-related projects.
+* Have used __Git__ in combination with local __Python__ environments and __LaTeX__ documents.
+* Currently host __Git__ repositories on __Github__, but used to host on my __Debian server__ and serve using __Gitweb__.
+        {{% /resume-entry %}}
+    {{< /resume-section >}}
 
     {{< resume-section title="Languages" >}}
-        {{< resume-category title="Dutch" >}}
-        {{% resume-entry what="Native Language" %}}
-* Hollandish accent
+        {{% resume-entry what="English" %}}
+English is and has always been my language of instruction, and accordingly it is the language that most facilitates my critical thinking. Can understand and communicate fluently with almost any English speaker in the world: be it in the UK, Europe, or any part of the US. I am very familiar with most of the accents found in these regions.
         {{% /resume-entry %}}
-        {{< resume-category title="Latin" >}}
-        {{% resume-entry what="Private Lessons" when="1588-1598" %}}
+
+        {{% resume-entry what="French" %}}
+I have been learning French since August 2021, when I came to Brussels. I have far exceeded the IB Ab Initio curriculum and am easily a B2 speaker as evidenced by my ability to converse fluently _avec mes potes belges_.
         {{% /resume-entry %}}
-        {{< resume-category title="French" >}}
-        {{% resume-entry what="French Classes" when="1621–1623" where="Ecole de Paris" %}}
+
+        {{% resume-entry what="Hindi" %}}
+Hindi is the first language I have learnt, and the one I still speak at home with my family. I can communicate with any Hindi-speaker in India with precision and fluency over any topic.
         {{% /resume-entry %}}
     {{< /resume-section >}}
+
 {{< /container >}}
