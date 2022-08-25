@@ -1,0 +1,48 @@
+baseURL = "https://architchoudhary.xyz/"
+languageCode = "en-gb"
+title = "Archit Choudhary"
+
+theme = "notrack"
+newContentEditor = "vim"
+mainSections = ["blog"]
+# disqusShortname = "example"
+paginate = 4
+
+[params]
+    author = "Archit Choudhary"
+    siteHeading = "Archit Choudhary" # defaults to author
+    favicon = "favicon.png" # Adds a small icon next to the page title in a tab
+    showBlogLatest = true
+    mainSections = ["blog"]
+    showTaxonomyLinks = false
+    nBlogLatest = 4 # number of blog post on the home page
+    blogLatestHeading = "Blog"
+    footer = "© 2022 Archit Choudhary. This website is under construction."
+
+    [params.social]
+        email = "archit@architchoudhary.xyz"
+        github = "choudhary-archit"
+        instagram = "architchoudharyistaken"
+        twitter = "ArchitIsTaken"
+
+[taxonomies]
+    year = "year"
+    month = "month"
+    tags = "tags"
+    categories = "categories"
+
+[permalinks]
+    blog = "/blog/:year/:month/:slug"
+
+[security]
+    enableInlineShortcodes = false
+        [security.exec]
+            allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^vim$']
+            osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+
+        [security.funcs]
+            getenv = ['^HUGO_']
+
+        [security.http]
+            methods = ['(?i)GET|POST']
+            urls = ['.*']
