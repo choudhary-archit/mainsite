@@ -84,7 +84,7 @@ Both Mercurial and Git arose out of the Linux kernel project that was started
 by Linus Torvalds. The project initially used BitKeeper to track source-code
 history, a proprietary VCS created by the company BitMover. The reason Linus
 opted for BitKeeper was that it was free under a community licence. That was
-until Andrew Tridgell, decided to reverse-engineer BitKeeper to create his own
+until Andrew Tridgell decided to reverse-engineer BitKeeper to create his own
 tool that would allow non-contributors to access the Linux kernel source; the
 content of a BitKeeper repository could only be checked out by using the
 proprietary client. He was later accused by BitMover as violating the community
@@ -135,7 +135,7 @@ perhaps this versatility is merely an illusion, as with all the other big VCSs
 that came along and lost their popularity in the matter of a few decades. Only
 time will tell.
 
-[^1]: Harry, Brian. "The Largest Git Repo on the Planet" Brian Harry’s Blog, 28 Feb. 2019, [devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet](devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet).
+[^1]: Harry, Brian. "The Largest Git Repo on the Planet" Brian Harry’s Blog, 28 Feb. 2019, [https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet](https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet).
 
 [^2]: It can be found at [https://git.kernel.org/pub/scm/git/git.git/](https://git.kernel.org/pub/scm/git/git.git/).
 
@@ -143,21 +143,21 @@ time will tell.
 
 [^4]: Rochkind, Marc J. "The Source Code Control System." IEEE Transactions on Software Engineering, vol. SE-1, no. 4, 1975, pp. 364–70. Crossref, https://doi.org/10.1109/tse.1975.6312866. A scanned PDF can be found [here](https://basepath.com/aup/talks/SCCS-Slideshow.pdf).
 
-[^5]: Load modules are something specific to programming on the IBM OS/360 or the PDP-11 that I do not know anything about. Perhaps good places to begin looking would be the (extensively researched) Wikipedia pages for the [IBM System/360](https://en.wikipedia.org/wiki/IBM_System/360#Operating_system_software) series and the [PDP-11](https://en.wikipedia.org/wiki/PDP-11).
+[^5]: Load modules are something specific to programming on the IBM OS/360 or the PDP-11 that I do not know anything about. Perhaps good places to begin looking would be the (extensively researched) Wikipedia pages for the [IBM System/360](https://en.wikipedia.org/wiki/IBM_System/360) series and the [PDP-11](https://en.wikipedia.org/wiki/PDP-11).
 
-[^6]: Grune, Dick. "Concurrent Versions System CVS." Dick Grune’s Website, [dickgrune.com/Programs/CVS.orig](dickgrune.com/Programs/CVS.orig). Accessed 3 Sept. 2022.
+[^6]: Grune, Dick. "Concurrent Versions System CVS." Dick Grune’s Website, [https://dickgrune.com/Programs/CVS.orig](https://dickgrune.com/Programs/CVS.orig). Accessed 3 Sept. 2022.
 
 [^7]: "STUG Award." USENIX, 7 May 2020, [https://www.usenix.org/about/stug/](https://www.usenix.org/about/stug/).
 
-[^8]: "What Is Subversion?" Red Bean, [svnbook.red-bean.com/en/1.7/svn.intro.whatis.html](svnbook.red-bean.com/en/1.7/svn.intro.whatis.html). Accessed 3 Sept. 2022.
+[^8]: "What Is Subversion?" Red Bean, [https://svnbook.red-bean.com/en/1.7/svn.intro.whatis.html](https://svnbook.red-bean.com/en/1.7/svn.intro.whatis.html). Accessed 3 Sept. 2022.
 
-[^9]: McAllister, Neil. "Linus Torvalds’ BitKeeper Blunder." InfoWorld, 2 May 2005, [www.infoworld.com/article/2670360/linus-torvalds--bitkeeper-blunder.html](www.infoworld.com/article/2670360/linus-torvalds--bitkeeper-blunder.html).
+[^9]: McAllister, Neil. "Linus Torvalds’ BitKeeper Blunder." InfoWorld, 2 May 2005, [https://www.infoworld.com/article/2670360/linus-torvalds--bitkeeper-blunder.html](https://www.infoworld.com/article/2670360/linus-torvalds--bitkeeper-blunder.html).
 
 [^10]: Mackall, Olivia. "Why Did Matt Choose the Name Mercurial?" Mercurial, 2012, [https://lists.mercurial-scm.org/pipermail/mercurial/2012-February/041807.html](https://lists.mercurial-scm.org/pipermail/mercurial/2012-February/041807.html). Accessed 3 Sept. 2022. Note that Olivia Mackall was formerly Matt Mackall; I do not know the reason behind her using another name.
 
 [^11]: McMillan, Robert. "After Controversy, Torvalds Begins Work on 'Git.'" PC World, 20 Apr. 2005, [https://www.pcworld.idg.com.au/article/129776/after_controversy_torvalds_begins_work_git_/](https://www.pcworld.idg.com.au/article/129776/after_controversy_torvalds_begins_work_git_/). Accessed 3 Sept. 2022.
 
-[^12]: He says this in "Tech Talk: Linus Torvalds on Git." YouTube, uploaded by Google, 14 May 2007, [www.youtube.com/watch?v=4XpnKHJAok8](www.youtube.com/watch?v=4XpnKHJAok8).
+[^12]: He says this in "Tech Talk: Linus Torvalds on Git." YouTube, uploaded by Google, 14 May 2007, [www.youtube.com/watch?v=4XpnKHJAok8](https://www.youtube.com/watch?v=4XpnKHJAok8).
 
 [^13]: "Version Control Systems Popularity in 2016." RhodeCode, 2016, [https://rhodecode.com/insights/version-control-systems-2016](https://rhodecode.com/insights/version-control-systems-2016).
 
