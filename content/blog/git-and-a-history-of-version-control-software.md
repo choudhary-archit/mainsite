@@ -106,12 +106,12 @@ These otherwise conspicuous names can be understood from the following quotes:
 > address), it clicked instantly. Mercurial is thus named in Larry's
 > honor. I do not know if the same is true of Git.[^10]
 >
-> (Olivia Mackall)
+> -- _Olivia Mackall_
 
 > I'm an egotistical bastard, so I name all my projects after myself. First
 > Linux, now Git.[^11]
 >
-> (Linus Torvalds)
+> -- _Linus Torvalds_
 
 According to Linus, Git is better than Mercurial.[^12] But according to most
 normal people, although there are some differences, they are performance-wise
@@ -121,7 +121,7 @@ whether an everyday Mercurial user will find it hard to revert changes and
 perform other version control actions. Actually, I would not be surprised if
 the average Mercurial user knew more about how Mercurial works than the average
 Git user who does not know how Git works, simply because many, many more people
-use Git and Mercurial[^13] and this includes people who are not professional
+use Git than Mercurial[^13] and this includes people who are not professional
 programmers.  But Git, from my experience, is not easy to use; this is
 summarised best by the following XKCD comic:[^14]
 
