@@ -1,12 +1,23 @@
 baseURL = "https://architchoudhary.xyz/"
-languageCode = "en-gb"
-title = "Archit Choudhary"
 
 theme = "notrack"
 newContentEditor = "vim"
 mainSections = ["blog"]
 # disqusShortname = "example"
 paginate = 4
+title = "Archit Choudhary"
+
+defaultContentLanguage = "en"
+
+[languages]
+    [languages.en]
+        code = "EN"
+        baseURL = "/en/"
+        weight = "1"
+    [languages.fr]
+        code = "FR"
+        baseURL = "/fr/"
+        weight = "2"
 
 [params]
     author = "Archit Choudhary"
