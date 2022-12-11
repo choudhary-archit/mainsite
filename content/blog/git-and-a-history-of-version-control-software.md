@@ -1,7 +1,6 @@
 ---
 title: 'Git, and a History of Version Control Software'
 date: 2022-09-03T12:19:55+02:00
-Tags: [technology, history]
 math: false
 draft: false
 ---
