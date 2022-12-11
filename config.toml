@@ -14,10 +14,13 @@ defaultContentLanguage = "en"
         code = "EN"
         baseURL = "/en/"
         weight = "1"
+        blogLatestHeading = "Latest Posts"
+
     [languages.fr]
         code = "FR"
         baseURL = "/fr/"
         weight = "2"
+        blogLatestHeading = "Derniers Posts"
 
 [params]
     author = "Archit Choudhary"
@@ -27,7 +30,6 @@ defaultContentLanguage = "en"
     mainSections = ["blog"]
     showTaxonomyLinks = false
     nBlogLatest = 4 # number of blog post on the home page
-    blogLatestHeading = "Latest Blog Entries"
     footer = "© 2022 Archit Choudhary."
 
     [params.social]
@@ -35,12 +37,6 @@ defaultContentLanguage = "en"
         github = "choudhary-archit"
         instagram = "architchoudharyistaken"
         twitter = "ArchitIsTaken"
-
-[taxonomies]
-    year = "year"
-    month = "month"
-    tags = "tags"
-    categories = "categories"
 
 [permalinks]
     blog = "/blog/:year/:month/:slug"
