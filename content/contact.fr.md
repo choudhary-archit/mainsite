@@ -8,4 +8,4 @@ menu:
 
 {{< contact-box >}}
 
-N'hesitez pas à dire bonjour !
+Les idées, les commentaires, les critiques, et les lettres d'amour sont tous également bienvenus.

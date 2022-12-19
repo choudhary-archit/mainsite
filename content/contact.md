@@ -8,4 +8,4 @@ menu:
 
 {{< contact-box >}}
 
-Feel free to say hello!
+Ideas, comments, criticisms, and love letters are all equally welcome.

@@ -16,7 +16,7 @@ menu:
 
 Je suis étudiant du Baccalaureat International habitant à la périphérie de
 Bruxelles, qui s'intéresse à la philosophie, à l'art, et à la vie. Je compte
-étudier les mathématiques à l'université après obtenir mon diplôme d'IB l'an
+étudier les mathématiques à l'université après obtenir mon diplôme de l'IB l'an
 prochain.
 
 J'ai une longue histore avec les mathématiques. J'ai gagné l'Olympiade
