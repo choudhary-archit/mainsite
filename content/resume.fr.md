@@ -8,23 +8,24 @@ menu:
 
 {{< container >}}
 
-    {{< resume-section title="Education" >}}
+    {{< resume-section title="Éducation" >}}
         {{% resume-entry what="Baccalauréat International (Belgique)"
                         where="International School of Belgium"
                         when="Août 2021 - présent" %}}
-Actuellement au cours de ma terminale à ISBe.
+Actuellement au terminale de lycée à ISBe.
 * Matières prises : Niveau Supérieure - Mathématiques Analyse et Approches, Physique, Économie ; Niveau Moyen - Anglais Langue et Littérature, Politique Mondiale, Français Ab Initio
-* Premier de la classe 11 dans chaque matière, l'an dernier.
+* J'étais premier de la Classe 11 dans chaque matière (2021)
+* J'ai écrit mon mémoir en politique mondiale, sur _l'influence de l'évolution de l'auto-identité de la Chine sur sa politique étrangère dans la mer de Chine méridionale_
         {{% /resume-entry %}}
 
-        {{% resume-entry what="Central Board of Secondary Education (India)"
+        {{% resume-entry what="Central Board of Secondary Education (Inde)"
                         where="DAV Public School, Airoli"
                         when="Avril 2011 - Mars 2021" %}}
-Toute éducation précédante faite à DAV, jusqu'à classe 10.
+Toute éducation précédante faite à DAV, jusqu'à classe 10
         {{% /resume-entry %}}
     {{< /resume-section >}}
 
-    {{< resume-section title="Selected Awards" >}}
+    {{< resume-section title="Prix Sélectionnés" >}}
         {{% resume-entry what="Invitee of the Mathematical Olympiad Orientation Camp"
                           where="Homi Bhabha Centre for Science Education"
                           when="2021" %}}{{% /resume-entry %}}
@@ -36,43 +37,50 @@ Toute éducation précédante faite à DAV, jusqu'à classe 10.
                           when="2020" %}}{{% /resume-entry %}}
     {{< /resume-section >}}
 
-    {{< resume-section title="Computer Skills" >}}
-        {{% resume-entry what="Scripting: Python and POSIX Shell in Vim" %}}
-* Have used scripting for implementing complex mathematical __algorithms__, see [numerical.git](https://github.com/choudhary-archit/numerical).
-* Have scripted in __BASH__ and __ZSH__ for configuring __Linux__ and __MacOS__ systems.
-* Have been doing all file editing (code and otherwise) in __Vim__ since 2019. Proficient enough to __Vim__ blindly.
+    {{< resume-section title="Compétences Informatiques" >}}
+        {{% resume-entry what="Scripts: Python et Shell POSIX dans Vim" %}}
+* J'ai utilisé des scripts pour mettre en œuvre des __algorithmes__ mathématiques complexes ; voyez [numerical.git](https://github.com/choudhary-archit/numerical)
+* J'ai écrit des scripts en __BASH__ et __ZSH__ pour configurer des systèmes __Linux__ et __MacOS__
+* Je fais toute l'édition de fichiers (code ou autre) dans __Vim__ depuis 2019 ; suffisamment compétent pour écrire aveuglement en __Vim__
         {{% /resume-entry %}}
 
-        {{% resume-entry what="System Administration: Linux and MacOS" %}}
-* Currently maintain a Debian web and __mail server__ (Dovecot/Postfix) with manually configured __DNS__ settings at [https://architchoudhary.xyz/](https://architchoudhary.xyz/).
-* Configured a __headless Raspberry Pi__ to be a __bittorrent__ seedbox completely over __SSH__.
-* Use __MacOS__ for day-to-day needs.
+        {{% resume-entry what="Administration du Système: Linux et MacOS" %}}
+* Je maintiens actuellement un __serveur web__ et __mail Debian__ (Dovecot/Postfix) avec des paramètres __DNS__ configurés manuellement à [https://architchoudhary.xyz/](https://architchoudhary.xyz/)
+* J'ai configuré un __Raspeberry Pi sans graphique__ pour être un __seedbox de bittorrent__ entièrement sur __SSH__
+* J'utilise __MacOS__ pour mes affaires quotidiennes
         {{% /resume-entry %}}
 
         {{% resume-entry what="Markup: LaTeX, HTML, Markdown" %}}
-* Extremely familiar with __LaTeX__; wrote my [Physics IA](https://github.com/choudhary-archit/physicsia) and [Mathematics IA](https://github.com/choudhary-archit/mathsia) for IBDP in __LaTeX__.
-* Previously used plain __HTML__ for personal website.
-* Currently generate my website with __Hugo__ and write blogposts in __Markdown__.
+* Je suis extrêmement familier avec __LaTeX__ ; j'ai écrit mes Évaluations Internes en [Physique](https://github.com/choudhary-archit/physicsia) et [Mathématiques](https://github.com/choudhary-archit/mathsia) pour l'IB en __LaTeX__
+* J'utilisais auparavant du __HTML__ simple pour mon siteweb personnel
+* Je génère actuellement mon siteweb avec __Hugo__ et j'écrit mes blogposts en __Markdown__
         {{% /resume-entry %}}
 
-        {{% resume-entry what="Version Control: Git" %}}
-* Have been using __Git__ for years, for many types of code-related or even non-code-related projects.
-* Have used __Git__ in combination with local __Python__ environments and __LaTeX__ documents.
-* Currently host __Git__ repositories on __Github__, but used to host on my __Debian server__ and serve using __Gitweb__.
+        {{% resume-entry what="Gestion de Version: Git" %}}
+* J'utilise __Git__ depuis de nombreuses années, pour plusieurs types de projets de code ou autres
+* J'utilise __Git__ en combinaison avec des __environnements Python locales__ et des documents __LaTeX__
+* J'hébèrge actuellement mes dépôts __Git__ sur __Github__, mais auparavant je le faisais sur mon __serveur Debian__ et je les servais en utilisant __Gitweb__
         {{% /resume-entry %}}
     {{< /resume-section >}}
 
-    {{< resume-section title="Languages" >}}
-        {{% resume-entry what="English" %}}
-English is and has always been my language of instruction, and accordingly it is the language that most facilitates my critical thinking. Can understand and communicate fluently with almost any English speaker in the world: be it in the UK, Europe, or any part of the US. I am very familiar with most of the accents found in these regions.
+    {{< resume-section title="Langues" >}}
+        {{% resume-entry what="Français" %}}
+* Mon niveau de français est à peu près aussi haut que celui d'anglais ; il n'y a que le vocabulaire qui me manque quelques fois
+* Bien que le français soit ma troisième langue, j'arrive à argumenter aussi bien en oral qu'en écrit, sur tout sujet
+* J'ai fait le DALF C2 en décembre 2022; le résultat arrive en janvier 2023, mais je crois que je vais réussir
+* J'ai maitrisé la langue en à peu près un an, après avoir déménagé en Belgique avec ma famille en aôut 2021
         {{% /resume-entry %}}
 
-        {{% resume-entry what="French" %}}
-I have been learning French since August 2021, when I came to Brussels. I have far exceeded the IB Ab Initio curriculum and am easily a B2 speaker as evidenced by my ability to converse fluently _avec mes potes belges_.
+        {{% resume-entry what="Anglais" %}}
+* Ma langue d'enseignement pendant tout mon parcours scolaire, depuis mes premières années à l'école maternelle en Inde, jusqu'à aujourd'hui avec l'IB en Belgique
+* Ma langue préferée pour la discussion ou l'argumentation, juste un peu plus que le français
+* Je possède un très vaste vocabulaire et très grande connaissance de la langue, résultat d'écouter, de parler, de lire et d'écrire toute chose anglaise pendant 16 ans de ma vie
         {{% /resume-entry %}}
 
         {{% resume-entry what="Hindi" %}}
-Hindi is the first language I have learnt, and the one I still speak at home with my family. I can communicate with any Hindi-speaker in India with precision and fluency over any topic.
+* C'est ma langue maternelle ; je la parle depuis que j'étais tout petit, et je continue à la parler jusqu'à aujourd'hui à la maison avec ma famille
+* Je comprends presque toute personne d'Inde ou d'autre part qui parle en hindi
+* J'ai un très haut niveau de comfortabilité avec le hindi, je n'hésite jamais sur rien
         {{% /resume-entry %}}
     {{< /resume-section >}}
 
