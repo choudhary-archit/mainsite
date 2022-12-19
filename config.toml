@@ -35,8 +35,6 @@ defaultContentLanguage = "en"
     [params.social]
         email = "archit@architchoudhary.xyz"
         github = "choudhary-archit"
-        instagram = "architchoudharyistaken"
-        twitter = "ArchitIsTaken"
 
 [permalinks]
     blog = "/blog/:year/:month/:slug"
