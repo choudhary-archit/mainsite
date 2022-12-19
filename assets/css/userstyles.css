@@ -1,0 +1,5 @@
+blockquote {
+    padding: 5px 15px;
+    background-color: rgba(128, 128, 128, 0.1);
+    border-style: solid;
+}

@@ -6,6 +6,10 @@ menu:
         weight: 1
 ---
 
+> _This doesn't require the Axiom of Choice [because] I don't believe in the Axiom of Choice._
+>
+> -- [_John "The Crank" Gabriel_](https://scienceblogs.com/goodmath/2010/02/04/so-remember-back-in)
+
 {{< image float="right" width="14em" frame="true" src="archit.png" >}}
 
 I am an IB student living on the outskirts of Brussels, interested in

@@ -6,6 +6,12 @@ menu:
         weight: 1
 ---
 
+> _Le simple fait d’écrire, de nommer, de décrire – ne serait-ce d’abord que
+> décrire des intuitions élusives ou de simples « soupçons » réticents à
+> prendre forme – a un pouvoir créateur._
+>
+> -- [_Alexandre Grothendieck_](https://fr.m.wikiquote.org/wiki/Alexandre_Grothendieck)
+
 {{< image float="right" width="14em" frame="true" src="archit.png" >}}
 
 Je suis étudiant du Baccalauréat International habitant à la périphérie de
