@@ -55,19 +55,18 @@ These can perhaps be called the basic principles of revision control since all
 VCSs that came after SCCS, although being much more powerful and flexible, based
 themselves on these capabilities.
 
-The second generation of VCSs subsequently brought improvements.
-One of these, Concurrent Versioning System (CVS) was created by Dick Grune in
-July 1986 in order to be able to work together with his students on the
-development of the [ACK C
-compiler](https://en.wikipedia.org/wiki/Amsterdam_Compiler_Kit). The problem
-was that they all had really different schedules: one worked nine-to-five, the
-other worked irregularly, and Grune could only work on it in the evenings; CVS
-allowed them to commit changes in their own time.[^6] It started out as a
-collection of shell scripts written by Grune, called _cmt_, and became CVS when
-Brian Berliner translated to C a cleaned-up version of cmt.  CVS went on to
-become the standard VCS for a long time after Jim Kingdon adapted CVS to work
-remotely over TCP/IP, which allowed use of CVS by the open-source community.
-CVS won the STUG Award in 2003.[^7]
+The second generation of VCSs subsequently brought improvements.  One of these,
+Concurrent Versioning System (CVS), was created by Dick Grune in July 1986 in
+order to be able to work together with his students on the development of the
+[ACK C compiler](https://en.wikipedia.org/wiki/Amsterdam_Compiler_Kit). The
+problem was that they all had really different schedules: one worked
+nine-to-five, the other worked irregularly, and Grune could only work on it in
+the evenings; CVS allowed them to commit changes in their own time.[^6] It
+started out as a collection of shell scripts written by Grune, called _cmt_,
+and became CVS when Brian Berliner translated to C a cleaned-up version of cmt.
+CVS went on to become the standard VCS for a long time after Jim Kingdon
+adapted CVS to work remotely over TCP/IP, which allowed use of CVS by the
+open-source community.  CVS won the STUG Award in 2003.[^7]
 
 The next major open-source VCS that came along was Subversion. It was created
 by CollabNet, Inc. in 2000 to be an improvement of CVS which removed some bugs
@@ -133,6 +132,8 @@ since their sheer versatility far surpasses any other imaginable system.  Or
 perhaps this versatility is merely an illusion, as with all the other big VCSs
 that came along and lost their popularity in the matter of a few decades. Only
 time will tell.
+
+_Last edited: 21 December 2022_ 
 
 [^1]: Harry, Brian. "The Largest Git Repo on the Planet" Brian Harry’s Blog, 28 Feb. 2019, [https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet](https://devblogs.microsoft.com/bharry/the-largest-git-repo-on-the-planet).
 
