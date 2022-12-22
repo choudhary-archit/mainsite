@@ -6,21 +6,21 @@ mainSections = ["blog"]
 # disqusShortname = "example"
 paginate = 4
 title = "Archit Choudhary"
-
+defaultContentLanguageInSubdir = true
 defaultContentLanguage = "en"
 
 [languages]
     [languages.en]
         code = "EN"
-        baseURL = "/en/"
         weight = "1"
         blogLatestHeading = "Latest Posts"
+        contentDir = "content/en"
 
     [languages.fr]
         code = "FR"
-        baseURL = "/fr/"
         weight = "2"
         blogLatestHeading = "Derniers Posts"
+        contentDir = "content/fr"
 
 [params]
     author = "Archit Choudhary"
