@@ -13,22 +13,31 @@ menu:
 
 {{< image float="right" width="14em" frame="true" src="assets/archit.png" >}}
 
-I am an IB student living on the outskirts of Brussels, interested in
-philosophy, art, and living. I plan to study mathematics at university after
-graduating with my IB Diploma next year.
+The first sentence of a person's webpage normally gives a one-line description
+of who they are. I used to do this. The problem, however, is that in condensing
+yourself to a mere, single sentence, in reducing your entire being down to an
+astonishingly limited number of interests and, if you're lucky, qualities...
+well, you lose quite a bit.
 
-I have a long history with mathematics. I won the Indian National Mathematical
-Olympiad in 2020 and was a merit awardee in 2021, though in my first attempt in
-2019 I got a grand score of 2/102 in PRMO. Beside mathematics, I have been
-studying many other subjects at [my school](https://www.isbedu.be), most of
-whom I am very enthusiastic about; especially English. In general, I adore
-reading, thinking, and writing, perhaps all three equally so. With music too I
-have a certain history, though it is not interesting enough to talk about here.
+I take a profound interest in science and technology. I cherish equally the
+pursuit of art in all its forms, and intellectual scholarship at its finest. I
+indulge in sports and greatly esteem physical fitness. I am principled yet
+empathetic, courageous yet noble, and bold in the face of responsibility.
 
-I don’t really exist on the Internet. If you wish to contact me online or just
-check out what awesome stuff I have (not) been doing online, see my [contact
-page]({{< ref "contact.md" >}}). The only way to really contact me from a
-distance if you don’t have my phone number is email. My résumé is available
-[here]({{< ref "resume.md" >}}) for potential employers (or others of the
-same species). But the most exciting thing on this website is, of course, my
-blog: scroll down to see the latest posts.
+But none of these interests or qualities define me when taken in isolation. I
+am the ensemble of all of them, when combined with everything else that is to
+me.
+
+Philosophy aside for a second, I should probably give some real info. I am 18
+and I live in Belgium. I am currently finishing the IB Diploma Programme at
+[ISBe](https://www.isbedu.be/), and I will be in the 2026 class of Engineering
+Technology at [KU Leuven](https://www.kuleuven.be/english/kuleuven/). I don't
+have a drivers licence (yet). I used to live in Brussels, where I learnt to
+speak French; mainly, however, I speak English and Hindi. And yes, I am of
+Indian origin, having spent the first sixteen years of my life in Mumbai.
+
+A résumé of my work is available [here]({{< ref "resume.md" >}}), and contact
+information, of which there is not much, can be found [here]({{< ref
+"contact.md" >}}). Finally, an interesting catalogue of books, film, and other
+media I have deeply engaged with is available [here]({{< ref "library.md" >}}).
+Check it out; you might find something that interests you.
