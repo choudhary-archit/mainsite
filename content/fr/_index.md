@@ -39,9 +39,9 @@ Leuven](https://www.kuleuven.be/english/kuleuven/) cette année. Je n'ai pas
 français; mais typiquement je parle l'anglais (à l'école) et le hindi (à la
 maison).
 
-Un résumé de mon travail est disponible [ici]({{< ref "resume.fr.md" >}}), et
-des infos pour me contacter, dont il n'y a pas beaucoup, se trouve [ici]({{<
-ref "contact.fr.md" >}}). Pour finir, un catalogue intéressant des livres, des
-films, et d'autres œuvres avec lesquels je me suis beaucoup engagé, peut se
-voir [ici]({{< ref "library.fr.md" >}}). Jetez-y un coup d'œil, vous pourriez
-peut-être trouvez quelque chose qui vous intéresse.
+Un résumé de mon travail est disponible [ici]({{< ref "resume.md" >}}), et des
+infos pour me contacter, dont il n'y a pas beaucoup, se trouve [ici]({{< ref
+"contact.md" >}}). Pour finir, un catalogue intéressant des livres, des films,
+et d'autres œuvres avec lesquels je me suis beaucoup engagé, peut se voir
+[ici]({{< ref "library.md" >}}). Jetez-y un coup d'œil, vous pourriez peut-être
+trouvez quelque chose qui vous intéresse.
