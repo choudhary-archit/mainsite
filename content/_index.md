@@ -32,6 +32,10 @@ Philosophy aside, I should probably give some real info. I am 18 and I live in
 Belgium. I am currently finishing the IB Diploma Programme at
 [ISBe](https://www.isbedu.be/), and I will be in the 2026 class of Engineering
 Technology at [KU Leuven](https://www.kuleuven.be/english/kuleuven/). I don't
-have a drivers licence (yet). I used to live in Brussels, where I learnt to
+have a driver's licence (yet). I used to live in Brussels, where I learnt to
 speak French; mainly, however, I speak English and Hindi. And yes, I am of
 Indian origin, having spent the first sixteen years of my life in Mumbai.
+
+I can be reached at the following email address: thearchitc [at] gmail [dot]
+com.  (The reason many people present their emails like this is that if you
+write it normally, it is very easy for bots to register and spam the address.)
