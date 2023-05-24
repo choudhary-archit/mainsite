@@ -46,42 +46,40 @@ Did all prior education at DAV, up to Class 10.
         {{% /resume-entry %}}
 
         {{% resume-entry what="System Administration: Linux and MacOS" %}}
-* I currently maintain a Debian __web and mail server__ (Dovecot/Postfix) with manually configured __DNS__ settings at [https://architchoudhary.xyz/](https://architchoudhary.xyz/)
-* I configured a __headless Raspberry Pi__ to be a __bittorrent__ seedbox completely over __SSH__
-* I use __MacOS__ for day-to-day needs
+* I currently maintain a Debian __web__ with manually configured __DNS__ settings at [https://architchoudhary.xyz/](https://architchoudhary.xyz/)
+* I used to have a self-configured __Dovecot/Postfix mail server__ at the same domain
+* I have configured a __headless Raspberry Pi__ to be a __bittorrent__ seedbox completely over __SSH__
+* I use __MacOS__ for everyday work
         {{% /resume-entry %}}
 
         {{% resume-entry what="Markup: LaTeX, HTML, Markdown" %}}
 * I am extremely familiar with __LaTeX__; I wrote my [Physics IA](https://github.com/choudhary-archit/physicsia) and [Mathematics IA](https://github.com/choudhary-archit/mathsia) for IB in __LaTeX__
 * I previously used plain __HTML__ for my personal website
-* I currently generate my website with __Hugo__ and write blogposts in __Markdown__.
+* I currently generate my website with __Hugo__, and I used to write blogposts in __Markdown__
         {{% /resume-entry %}}
 
         {{% resume-entry what="Version Control: Git" %}}
-* I have been using __Git__ for years, for numeruos code or non-code projects
-* I use __Git__ in combination with local __Python__ environments and __LaTeX__ documents
+* I have been using __Git__ for years, for numerous code or non-code projects
+* I have used __Git__ in combination with local __Python__ environments and __LaTeX__ documents
 * I currently host __Git__ repositories on __Github__, but I used to host them on my __Debian server__ and serve them using __Gitweb__
         {{% /resume-entry %}}
     {{< /resume-section >}}
 
     {{< resume-section title="Languages" >}}
         {{% resume-entry what="English" %}}
-* My language of instruction throughout my school career, from my early years in kindergarten in India, to today with the IB in Belgium
-* My preferred language for discussion or argumentation, just a little more than French
-* I have a very large vocabulary and knowledge of the language, a result of listening, speaking, reading and writing all things English for 16 years of my life
+* My language of instruction all throughout school, and soon also at university
+* My preferred language for discussion or argumentation
+* I have a considerably large vocabulary and knowledge of the language, as a result of listening, speaking, reading and writing all things English for all my life
         {{% /resume-entry %}}
 
         {{% resume-entry what="French" %}}
-* My level of French is about as high as that of English; I just lack the vocabulary sometimes
-* Although French is my third language, I am able to argue both orally and in writing on any subject
-* I took the DALF C2 in December 2022; the result is due in January 2023, but I believe I will pass
-* I mastered the language in about a year, after moving to Belgium with my family in August 2021
+* Mostly self-taught, through the Internet and living in Brussels
+* Third language, but still very competent; can communicate mostly effectively on most topics
         {{% /resume-entry %}}
 
         {{% resume-entry what="Hindi" %}}
-* It is my mother tongue; I have spoken it since I was a child, and I continue to speak it to this day at home with my family
+* My mother tongue; I have spoken it since I was a child, and I continue to speak at home with my family
 * I understand almost anyone from India or elsewhere who speaks Hindi
-* I have a very high level of comfort with Hindi, I never hesitate when speaking of anything
         {{% /resume-entry %}}
     {{< /resume-section >}}
 
