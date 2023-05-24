@@ -6,21 +6,7 @@ mainSections = ["blog"]
 # disqusShortname = "example"
 paginate = 4
 title = "Archit Choudhary"
-defaultContentLanguageInSubdir = true
 defaultContentLanguage = "en"
-
-[languages]
-    [languages.en]
-        code = "EN"
-        weight = "1"
-        blogLatestHeading = "Latest Posts"
-        contentDir = "content/en"
-
-    [languages.fr]
-        code = "FR"
-        weight = "2"
-        blogLatestHeading = "Derniers Posts"
-        contentDir = "content/fr"
 
 [params]
     author = "Archit Choudhary"
@@ -30,10 +16,10 @@ defaultContentLanguage = "en"
     mainSections = ["blog"]
     showTaxonomyLinks = false
     nBlogLatest = 4 # number of blog post on the home page
-    footer = "© 2022 Archit Choudhary."
+    footer = "© 2023 Archit Choudhary."
 
     [params.social]
-        email = "archit@architchoudhary.xyz"
+        email = "thearchitc@gmail.com"
         github = "choudhary-archit"
 
 [permalinks]
