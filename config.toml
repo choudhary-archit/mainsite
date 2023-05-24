@@ -6,16 +6,15 @@ mainSections = ["blog"]
 # disqusShortname = "example"
 paginate = 4
 title = "Archit Choudhary"
-defaultContentLanguage = "en"
 
 [params]
     author = "Archit Choudhary"
     siteHeading = "Archit Choudhary" # defaults to author
     favicon = "favicon.png" # Adds a small icon next to the page title in a tab
-    showBlogLatest = true
-    mainSections = ["blog"]
+#    showBlogLatest = true
+#    mainSections = ["blog"]
     showTaxonomyLinks = false
-    nBlogLatest = 4 # number of blog post on the home page
+#    nBlogLatest = 4 # number of blog post on the home page
     footer = "© 2023 Archit Choudhary."
 
     [params.social]
