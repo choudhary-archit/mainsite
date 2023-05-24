@@ -28,16 +28,10 @@ But none of these interests or qualities define me when taken in isolation. I
 am the ensemble of all of them, when combined with everything else that is to
 me.
 
-Philosophy aside for a second, I should probably give some real info. I am 18
-and I live in Belgium. I am currently finishing the IB Diploma Programme at
+Philosophy aside, I should probably give some real info. I am 18 and I live in
+Belgium. I am currently finishing the IB Diploma Programme at
 [ISBe](https://www.isbedu.be/), and I will be in the 2026 class of Engineering
 Technology at [KU Leuven](https://www.kuleuven.be/english/kuleuven/). I don't
 have a drivers licence (yet). I used to live in Brussels, where I learnt to
 speak French; mainly, however, I speak English and Hindi. And yes, I am of
 Indian origin, having spent the first sixteen years of my life in Mumbai.
-
-A résumé of my work is available [here]({{< ref "resume.md" >}}), and contact
-information, of which there is not much, can be found [here]({{< ref
-"contact.md" >}}). Finally, an interesting catalogue of books, film, and other
-media I have deeply engaged with is available [here]({{< ref "library.md" >}}).
-Check it out; you might find something that interests you.
