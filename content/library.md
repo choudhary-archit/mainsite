@@ -1,9 +1,4 @@
 ---
-title: "Library"
-menu:
-    main:
-        name: "Library"
-        weight: 230
 ---
 
 Note that I do not own several items here; _Foucault's Pendulum_, for instance,
@@ -14,13 +9,12 @@ interesting.
 
 ## Fiction
 
-* Bradbury, Ray. _Fahrenheit 451_. 1954. Flamingo, 2008. ISBN: 9780006546061.
-* Elias-Bursac, Ellen, translator. _Götz and Meyer_. By David Albahari. The
-  Harvill Press, 2004. ISBN: 1843430932.
-* Weaver, William, translator. _Foucault's Pendulum_. By Umberto Eco. Random
-  House, 1990. ISBN: 9780345368751.
+{{< image float="left" width="7em" src="library_imgs/literature/fahrenheit_451.jpeg" link="https://www.goodreads.com/book/show/13079982-fahrenheit-451" >}}
 
-## Non-fiction
+{{< image float="left" width="7em" src="library_imgs/literature/gotz_and_meyer.jpeg" link="https://www.goodreads.com/book/show/1531961.G_tz_and_Meyer" >}}
 
-* Bell, E. T. _Men of Mathematics_. 1937. Touchstone, 1986. ISBN:
-  9780671628185.
+{{< image float="left" width="7em" src="library_imgs/literature/foucaults_pendulum.jpeg" link="https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum" >}}
+
+{{< image float="left" width="7em" src="library_imgs/literature/1984.jpg" link="https://www.goodreads.com/book/show/61439040-1984" >}}
+
+{{< image float="left" width="7em" src="library_imgs/literature/medea.jpeg" link="https://www.goodreads.com/book/show/4769128-medea">}}
