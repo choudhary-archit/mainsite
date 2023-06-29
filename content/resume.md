@@ -15,7 +15,7 @@ menu:
 Currently in last year of secondary school at ISBe.
 * Subjects taken: Higher Level - Mathematics Analysis and Approaches, Physics, 
   Economics ; Standard Level - English Language and Literature, Global Politics, French Ab Initio
-* I was top of Class 11, in every subject (2021)
+* I was top of Class 11, in every subject (2021-22)
 * I wrote my Extended Essay in global politics, on _the influence of China's evolving self-identity on its foreign policy in the South China Sea_
         {{% /resume-entry %}}
 
@@ -27,15 +27,62 @@ Did all prior education at DAV, up to Class 10.
     {{< /resume-section >}}
 
     {{< resume-section title="Selected Awards" >}}
+        {{% resume-entry what="Winner of the Lynn Martin Award"
+                         where="International School of Belgium"
+                         when="2022" %}}
+A student-nominated award at ISBe given to a student who leads by example,
+supports others, and has contributed to the lives of others in a positive way;
+named after such an exemplary teacher at ISBe who is, unfortunately, no longer
+with us
+        {{% /resume-entry %}}
+
         {{% resume-entry what="Invitee of the Mathematical Olympiad Orientation Camp"
-                          where="Homi Bhabha Centre for Science Education"
-                          when="2021" %}}{{% /resume-entry %}}
+                         where="Homi Bhabha Centre for Science Education"
+                         when="2021" %}}
+Because of COVID-19, the Indian IMO Training Camp was replaced by this virtual
+event; all INMO 2021 winners and merit awardees were invited
+        {{% /resume-entry %}}
+
         {{% resume-entry what="Awardee of the Indian National Mathematical Olympiad"
-                          where="Homi Bhabha Centre for Science Education"
-                          when="2020" %}}{{% /resume-entry %}}
+                         where="Homi Bhabha Centre for Science Education"
+                         when="2020" %}}
+The premier mathematics contest of India, open to all students from Classes 8
+to 12 who qualify the preceding rounds; I won it in Class 9, and the preceding
+rounds in Class 8
+        {{% /resume-entry %}}
+
         {{% resume-entry what="Awardee of the Diploma of the 16th Sharygin Geometry Olympiad"
-                          where="Steklov Mathematical Institute RAS"
-                          when="2020" %}}{{% /resume-entry %}}
+                         where="Steklov Mathematical Institute RAS"
+                         when="2020" %}}
+A very well-known Russian geometry olympiad, popular among math olympians
+around the world
+        {{% /resume-entry %}}
+    {{< /resume-section >}}
+
+    {{< resume-section title="Selected Experiences" >}}
+
+        {{% resume-entry what="Student Council President"
+                         where="International School of Belgium"
+                         when="Sep 2022 - June 2023" %}}
+* Elected my school's Student Council president for the 2022 academic year, by over half the student body
+* Responsible for maintaining a liaison between teachers and staff on the one hand, and students on the other
+* Also responsible for leading the organisation of student events throughout the year
+        {{% /resume-entry %}}
+
+        {{% resume-entry what="Model United Nations"
+                         where="International School of Belgium"
+                         when="June 2022" %}}
+* Russian delegate in the Security Council at my school's MUN in June 2022
+* Topic: "The Humanitarian Situation in Ukraine"
+        {{% /resume-entry %}}
+
+        {{% resume-entry what="British Parliamentary Debate"
+                         where="The Sister Café, Brussels"
+                         when="May 2023 - present" %}}
+* I attend a debate club in Brussels that meets every Wednesday evening
+* Regular participant in the debates
+        {{% /resume-entry %}}
+
     {{< /resume-section >}}
 
     {{< resume-section title="Computer Skills" >}}
