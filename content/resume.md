@@ -11,11 +11,11 @@ menu:
     {{< resume-section title="Education" >}}
         {{% resume-entry what="International Baccalaureate Diploma (Belgium)"
                         where="International School of Belgium"
-                        when="Aug 2021 - present" %}}
-Currently in last year of secondary school at ISBe.
+                        when="Aug 2021 - Jun 2023" %}}
+* I got a score of 43/45, the highest at ISBe so far
+* I was top of Class 11 and 12, in almost all subjects I took
 * Subjects taken: Higher Level - Mathematics Analysis and Approaches, Physics, 
   Economics ; Standard Level - English Language and Literature, Global Politics, French Ab Initio
-* I was top of Class 11, in every subject (2021-22)
 * I wrote my Extended Essay in global politics, on _the influence of China's evolving self-identity on its foreign policy in the South China Sea_
         {{% /resume-entry %}}
 
@@ -64,7 +64,7 @@ around the world
         {{% resume-entry what="Student Council President"
                          where="International School of Belgium"
                          when="Sep 2022 - June 2023" %}}
-* Elected my school's Student Council president for the 2022 academic year, by over half the student body
+* Elected my school's first-ever Student Council president for the 2022-23 academic year, by over half the student body
 * Responsible for maintaining a liaison between teachers and staff on the one hand, and students on the other
 * Also responsible for leading the organisation of student events throughout the year
         {{% /resume-entry %}}
