@@ -6,12 +6,16 @@ menu:
         weight: 1
 ---
 
-> _This doesn’t require the Axiom of Choice [because] I don’t believe in the
-> Axiom of Choice._
+> _A human being should be able to change a diaper, plan an invasion,
+> butcher a hog, conn a ship, design a building, write a sonnet, balance
+> accounts, build a wall, set a bone, comfort the dying, take orders, give
+> orders, cooperate, act alone, solve equations, analyze a new problem,
+> pitch manure, program a computer, cook a tasty meal, fight efficiently,
+> die gallantly. Specialization is for insects._
 >
-> -- [_John "The Crank" Gabriel_](https://scienceblogs.com/goodmath/2010/02/04/so-remember-back-in)
+> -- Robert Heinlein
 
-{{< image float="right" width="14em" frame="true" src="assets/archit.png" >}}
+{{< image float="left" width="14em" frame="true" src="assets/archit.png" >}}
 
 Hello! I am an eighteen year old Indian living in Belgium, just finished with
 the [IB Diploma Programme](https://www.isbedu.be/). I am interested in most
