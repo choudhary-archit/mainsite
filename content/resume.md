@@ -13,10 +13,9 @@ menu:
                         where="International School of Belgium"
                         when="Aug 2021 - Jun 2023" %}}
 * I got a score of 43/45, the highest at ISBe so far
-* I was top of Class 11 and 12, in almost all subjects I took
+* I was top of Class 11 and 12, in almost all subjects I took (For Natasha: I would have gotten English too if it weren't for your speech...)
 * Subjects taken: Higher Level - Mathematics Analysis and Approaches, Physics, 
   Economics ; Standard Level - English Language and Literature, Global Politics, French Ab Initio
-* I wrote my Extended Essay in global politics, on _the influence of China's evolving self-identity on its foreign policy in the South China Sea_
         {{% /resume-entry %}}
 
         {{% resume-entry what="Central Board of Secondary Education (India)"
@@ -47,8 +46,7 @@ event; all INMO 2021 winners and merit awardees were invited
                          where="Homi Bhabha Centre for Science Education"
                          when="2020" %}}
 The premier mathematics contest of India, open to all students from Classes 8
-to 12 who qualify the preceding rounds; I won it in Class 9, and the preceding
-rounds in Class 8
+to 12 who qualify the preceding rounds; I won it in Class 9
         {{% /resume-entry %}}
 
         {{% resume-entry what="Awardee of the Diploma of the 16th Sharygin Geometry Olympiad"
@@ -74,13 +72,6 @@ around the world
                          when="June 2022" %}}
 * Russian delegate in the Security Council at my school's MUN in June 2022
 * Topic: "The Humanitarian Situation in Ukraine"
-        {{% /resume-entry %}}
-
-        {{% resume-entry what="British Parliamentary Debate"
-                         where="The Sister Café, Brussels"
-                         when="May 2023 - present" %}}
-* I attend a debate club in Brussels that meets every Wednesday evening
-* Regular participant in the debates
         {{% /resume-entry %}}
 
     {{< /resume-section >}}
